@@ -4,6 +4,8 @@ Welcome to my Profile
 
 ## FutureDeveloperZ
 
+- [Snaith](https://github.com/FutureDeveloperZ/snaith) a Discord Bot.
+
 <!--
 **Wolfkid200444/Wolfkid200444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
