@@ -3,7 +3,7 @@
 
 <p>Hello my name is Jesus 
 
-im a Front-End Developer who waste most of is time sitting
+im a Developer who waste most of is time sitting
 on is desk doing nothing but watch Anime all day.
 
 </p>
