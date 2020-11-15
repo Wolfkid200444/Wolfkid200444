@@ -27,7 +27,7 @@ on is desk doing nothing but watch Anime all day.
   <summary>:zap: Github Stats</summary>
 
   <img align="right" alt="Wolf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Wolfkid200444&show_icons=true&theme=tokyonight" />
-<img align="left" alt="Wolf's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfkid200444&show_icons=true&theme=tokyonight"/>
+<img align="right" alt="Wolf's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfkid200444&show_icons=true&theme=tokyonight"/>
 
 </details>
 
