@@ -13,7 +13,7 @@ on is desk doing nothing but watch Anime all day.
 <dl>
   <dt>Obama Bot 🤖</dt>
   <dd>- This bot is for Discord and made on JavaScript was orginaly made for a joke and ended up getting too popular</dd>
-  <dt>SmashUp Theme 🎴</dr>
+  <dt>SmashUp Theme 🎴 (discontinue)</dr>
   <dd>- This is a discord theme made to support light mode and dark mode and make users happy</dd>
 </dl>
 
