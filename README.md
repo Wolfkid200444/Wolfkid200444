@@ -43,4 +43,3 @@ on is desk doing nothing but watch Anime all day.
 
 
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Wolfkid200444.Wolfkid200444)
-ODQzOTQ0ODE0NjQyNzI0ODY1.YKLO2w.YvCrS-K3LCekUezupW6ZhDtT-HI
