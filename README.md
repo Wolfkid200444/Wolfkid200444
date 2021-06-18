@@ -43,6 +43,7 @@ on is desk doing nothing but watch Anime all day.
       <p>My Website: <a href="https://realwolfie.ml">realwolfie.ml</a></p>
 
 
+  <h1> Recent Activity </h1>
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1](https://github.com/Animiru/Animiru/issues/1) in [Animiru/Animiru](https://github.com/Animiru/Animiru)
 2. 🗣 Commented on [#327](https://github.com/Vedza/NitroSniperGo/issues/327) in [Vedza/NitroSniperGo](https://github.com/Vedza/NitroSniperGo)
