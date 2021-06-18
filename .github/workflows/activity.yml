@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '*/60 * * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -16,5 +16,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: 'I\'m Slowly dying'
+          COMMIT_MSG: 'Im Slowly dying'
           MAX_LINES: 10
