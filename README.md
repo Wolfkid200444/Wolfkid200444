@@ -15,6 +15,9 @@ on is desk doing nothing but watch Anime all day.
 <dl>
   <dt>Obama Bot 🤖</dt>
   <dd>- This bot is for Discord and made on JavaScript was orginaly made for a joke and ended up getting too popular</dd>
+
+  <dt>Aliucord Plugins �</dt>
+  <dd>- This are random plugins using Java which is a language i started using recently and i hope to get better with it</dd>
 </dl>
 
 <!--<a href="https://youtube.com/c/Wolfkid">
