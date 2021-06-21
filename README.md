@@ -44,6 +44,7 @@ on is desk doing nothing but watch Anime all day.
 
 
   <h1> Recent Activity </h1>
+
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#237](https://github.com/Discord-Custom-Covers/usrbg/pull/237) in [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg)
 2. ❗️ Opened issue [#1](https://github.com/Animiru/Animiru/issues/1) in [Animiru/Animiru](https://github.com/Animiru/Animiru)
@@ -54,5 +55,5 @@ on is desk doing nothing but watch Anime all day.
 <!--END_SECTION:activity-->
 
 
-
+  <h1> Midly cool Stats </h1>
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Wolfkid200444.Wolfkid200444)
