@@ -46,12 +46,12 @@ on is desk doing nothing but watch Anime all day.
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com/Aliucord/plugin-requests/issues/70) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
-2. ❗️ Opened issue [#78](https://github.com/Aliucord/plugin-requests/issues/78) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
-3. ❗️ Opened issue [#70](https://github.com/Aliucord/plugin-requests/issues/70) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
-4. 💪 Opened PR [#237](https://github.com/Discord-Custom-Covers/usrbg/pull/237) in [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg)
-5. ❗️ Opened issue [#1](https://github.com/Animiru/Animiru/issues/1) in [Animiru/Animiru](https://github.com/Animiru/Animiru)
-6. 🗣 Commented on [#327](https://github.com/Vedza/NitroSniperGo/issues/327) in [Vedza/NitroSniperGo](https://github.com/Vedza/NitroSniperGo)
+1. 🎉 Merged PR [#1](https://github.com/Wolfkid200444/hot-plugins/pull/1) in [Wolfkid200444/hot-plugins](https://github.com/Wolfkid200444/hot-plugins)
+2. 🗣 Commented on [#70](https://github.com/Aliucord/plugin-requests/issues/70) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
+3. ❗️ Opened issue [#78](https://github.com/Aliucord/plugin-requests/issues/78) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
+4. ❗️ Opened issue [#70](https://github.com/Aliucord/plugin-requests/issues/70) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
+5. 💪 Opened PR [#237](https://github.com/Discord-Custom-Covers/usrbg/pull/237) in [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg)
+6. ❗️ Opened issue [#1](https://github.com/Animiru/Animiru/issues/1) in [Animiru/Animiru](https://github.com/Animiru/Animiru)
 <!--END_SECTION:activity-->
 
 
