@@ -46,12 +46,12 @@ on is desk doing nothing but watch Anime all day.
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Wolfkid200444/hot-plugins/pull/3) in [Wolfkid200444/hot-plugins](https://github.com/Wolfkid200444/hot-plugins)
-2. 🎉 Merged PR [#1](https://github.com/Wolfkid200444/hot-plugins/pull/1) in [Wolfkid200444/hot-plugins](https://github.com/Wolfkid200444/hot-plugins)
-3. 🗣 Commented on [#70](https://github.com/Aliucord/plugin-requests/issues/70) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
-4. ❗️ Opened issue [#78](https://github.com/Aliucord/plugin-requests/issues/78) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
-5. ❗️ Opened issue [#70](https://github.com/Aliucord/plugin-requests/issues/70) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
-6. 💪 Opened PR [#237](https://github.com/Discord-Custom-Covers/usrbg/pull/237) in [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg)
+1. 💪 Opened PR [#60](https://github.com/Aliucord/Aliucord/pull/60) in [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord)
+2. 🎉 Merged PR [#3](https://github.com/Wolfkid200444/hot-plugins/pull/3) in [Wolfkid200444/hot-plugins](https://github.com/Wolfkid200444/hot-plugins)
+3. 🎉 Merged PR [#1](https://github.com/Wolfkid200444/hot-plugins/pull/1) in [Wolfkid200444/hot-plugins](https://github.com/Wolfkid200444/hot-plugins)
+4. 🗣 Commented on [#70](https://github.com/Aliucord/plugin-requests/issues/70) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
+5. ❗️ Opened issue [#78](https://github.com/Aliucord/plugin-requests/issues/78) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
+6. ❗️ Opened issue [#70](https://github.com/Aliucord/plugin-requests/issues/70) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
 <!--END_SECTION:activity-->
 
 
