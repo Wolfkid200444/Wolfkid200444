@@ -46,12 +46,12 @@ on is desk doing nothing but watch Anime all day.
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#203](https://github.com/Spiderjockey02/Discord-Bot/issues/203) in [Spiderjockey02/Discord-Bot](https://github.com/Spiderjockey02/Discord-Bot)
-2. 🗣 Commented on [#60](https://github.com/Aliucord/Aliucord/issues/60) in [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord)
-3. 💪 Opened PR [#60](https://github.com/Aliucord/Aliucord/pull/60) in [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord)
-4. 🎉 Merged PR [#3](https://github.com/Wolfkid200444/hot-plugins/pull/3) in [Wolfkid200444/hot-plugins](https://github.com/Wolfkid200444/hot-plugins)
-5. 🎉 Merged PR [#1](https://github.com/Wolfkid200444/hot-plugins/pull/1) in [Wolfkid200444/hot-plugins](https://github.com/Wolfkid200444/hot-plugins)
-6. 🗣 Commented on [#70](https://github.com/Aliucord/plugin-requests/issues/70) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
+1. ❗️ Opened issue [#1](https://github.com/lexisother/AliucordPlugins/issues/1) in [lexisother/AliucordPlugins](https://github.com/lexisother/AliucordPlugins)
+2. 🗣 Commented on [#203](https://github.com/Spiderjockey02/Discord-Bot/issues/203) in [Spiderjockey02/Discord-Bot](https://github.com/Spiderjockey02/Discord-Bot)
+3. 🗣 Commented on [#60](https://github.com/Aliucord/Aliucord/issues/60) in [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord)
+4. 💪 Opened PR [#60](https://github.com/Aliucord/Aliucord/pull/60) in [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord)
+5. 🎉 Merged PR [#3](https://github.com/Wolfkid200444/hot-plugins/pull/3) in [Wolfkid200444/hot-plugins](https://github.com/Wolfkid200444/hot-plugins)
+6. 🎉 Merged PR [#1](https://github.com/Wolfkid200444/hot-plugins/pull/1) in [Wolfkid200444/hot-plugins](https://github.com/Wolfkid200444/hot-plugins)
 <!--END_SECTION:activity-->
 
 
