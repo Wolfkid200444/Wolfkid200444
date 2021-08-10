@@ -46,12 +46,12 @@ on is desk doing nothing but watch Anime all day.
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/Puyodead1/powercord-ownertag/issues/16) in [Puyodead1/powercord-ownertag](https://github.com/Puyodead1/powercord-ownertag)
-2. 💪 Opened PR [#1](https://github.com/FifiTheBulldog/powercord-ownertag/pull/1) in [FifiTheBulldog/powercord-ownertag](https://github.com/FifiTheBulldog/powercord-ownertag)
-3. ❗️ Opened issue [#1](https://github.com/lexisother/AliucordPlugins/issues/1) in [lexisother/AliucordPlugins](https://github.com/lexisother/AliucordPlugins)
-4. 🗣 Commented on [#203](https://github.com/Spiderjockey02/Discord-Bot/issues/203) in [Spiderjockey02/Discord-Bot](https://github.com/Spiderjockey02/Discord-Bot)
-5. 🗣 Commented on [#60](https://github.com/Aliucord/Aliucord/issues/60) in [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord)
-6. 💪 Opened PR [#60](https://github.com/Aliucord/Aliucord/pull/60) in [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord)
+1. 🗣 Commented on [#142](https://github.com/Aliucord/plugin-requests/issues/142) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
+2. 🗣 Commented on [#16](https://github.com/Puyodead1/powercord-ownertag/issues/16) in [Puyodead1/powercord-ownertag](https://github.com/Puyodead1/powercord-ownertag)
+3. 💪 Opened PR [#1](https://github.com/FifiTheBulldog/powercord-ownertag/pull/1) in [FifiTheBulldog/powercord-ownertag](https://github.com/FifiTheBulldog/powercord-ownertag)
+4. ❗️ Opened issue [#1](https://github.com/lexisother/AliucordPlugins/issues/1) in [lexisother/AliucordPlugins](https://github.com/lexisother/AliucordPlugins)
+5. 🗣 Commented on [#203](https://github.com/Spiderjockey02/Discord-Bot/issues/203) in [Spiderjockey02/Discord-Bot](https://github.com/Spiderjockey02/Discord-Bot)
+6. 🗣 Commented on [#60](https://github.com/Aliucord/Aliucord/issues/60) in [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord)
 <!--END_SECTION:activity-->
 
 
