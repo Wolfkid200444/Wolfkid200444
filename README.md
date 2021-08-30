@@ -46,12 +46,12 @@ on is desk doing nothing but watch Anime all day.
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#12](https://github.com/nacrt/SkyblockClient/issues/12) in [nacrt/SkyblockClient](https://github.com/nacrt/SkyblockClient)
-2. ❗️ Opened issue [#12](https://github.com/nacrt/SkyblockClient/issues/12) in [nacrt/SkyblockClient](https://github.com/nacrt/SkyblockClient)
-3. 🗣 Commented on [#4](https://github.com/Wolfkid200444/hot-plugins/issues/4) in [Wolfkid200444/hot-plugins](https://github.com/Wolfkid200444/hot-plugins)
-4. 🗣 Commented on [#533](https://github.com/powercord-org/powercord/issues/533) in [powercord-org/powercord](https://github.com/powercord-org/powercord)
-5. 🗣 Commented on [#142](https://github.com/Aliucord/plugin-requests/issues/142) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
-6. 🗣 Commented on [#16](https://github.com/Puyodead1/powercord-ownertag/issues/16) in [Puyodead1/powercord-ownertag](https://github.com/Puyodead1/powercord-ownertag)
+1. 🗣 Commented on [#2](https://github.com/Animiru/Animiru/issues/2) in [Animiru/Animiru](https://github.com/Animiru/Animiru)
+2. ❗️ Closed issue [#12](https://github.com/nacrt/SkyblockClient/issues/12) in [nacrt/SkyblockClient](https://github.com/nacrt/SkyblockClient)
+3. ❗️ Opened issue [#12](https://github.com/nacrt/SkyblockClient/issues/12) in [nacrt/SkyblockClient](https://github.com/nacrt/SkyblockClient)
+4. 🗣 Commented on [#4](https://github.com/Wolfkid200444/hot-plugins/issues/4) in [Wolfkid200444/hot-plugins](https://github.com/Wolfkid200444/hot-plugins)
+5. 🗣 Commented on [#533](https://github.com/powercord-org/powercord/issues/533) in [powercord-org/powercord](https://github.com/powercord-org/powercord)
+6. 🗣 Commented on [#142](https://github.com/Aliucord/plugin-requests/issues/142) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
 <!--END_SECTION:activity-->
 
 
