@@ -46,12 +46,12 @@ on is desk doing nothing but watch Anime all day.
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/WolfPlugs/osu/issues/2) in [WolfPlugs/osu](https://github.com/WolfPlugs/osu)
-2. 🗣 Commented on [#2](https://github.com/WolfPlugs/osu/issues/2) in [WolfPlugs/osu](https://github.com/WolfPlugs/osu)
-3. 🎉 Merged PR [#4](https://github.com/WolfPlugs/osu/pull/4) in [WolfPlugs/osu](https://github.com/WolfPlugs/osu)
-4. 🗣 Commented on [#25](https://github.com/GriefMoDz/better-status-indicators/issues/25) in [GriefMoDz/better-status-indicators](https://github.com/GriefMoDz/better-status-indicators)
-5. 🗣 Commented on [#2](https://github.com/Animiru/Animiru/issues/2) in [Animiru/Animiru](https://github.com/Animiru/Animiru)
-6. ❗️ Closed issue [#12](https://github.com/nacrt/SkyblockClient/issues/12) in [nacrt/SkyblockClient](https://github.com/nacrt/SkyblockClient)
+1. ❗️ Opened issue [#15](https://github.com/wingio/BadgeDB/issues/15) in [wingio/BadgeDB](https://github.com/wingio/BadgeDB)
+2. ❗️ Closed issue [#2](https://github.com/WolfPlugs/osu/issues/2) in [WolfPlugs/osu](https://github.com/WolfPlugs/osu)
+3. 🗣 Commented on [#2](https://github.com/WolfPlugs/osu/issues/2) in [WolfPlugs/osu](https://github.com/WolfPlugs/osu)
+4. 🎉 Merged PR [#4](https://github.com/WolfPlugs/osu/pull/4) in [WolfPlugs/osu](https://github.com/WolfPlugs/osu)
+5. 🗣 Commented on [#25](https://github.com/GriefMoDz/better-status-indicators/issues/25) in [GriefMoDz/better-status-indicators](https://github.com/GriefMoDz/better-status-indicators)
+6. 🗣 Commented on [#2](https://github.com/Animiru/Animiru/issues/2) in [Animiru/Animiru](https://github.com/Animiru/Animiru)
 <!--END_SECTION:activity-->
 
 
