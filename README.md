@@ -46,12 +46,12 @@ on is desk doing nothing but watch Anime all day.
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#15](https://github.com/wingio/BadgeDB/issues/15) in [wingio/BadgeDB](https://github.com/wingio/BadgeDB)
-2. 🗣 Commented on [#15](https://github.com/wingio/BadgeDB/issues/15) in [wingio/BadgeDB](https://github.com/wingio/BadgeDB)
-3. 💪 Opened PR [#16](https://github.com/wingio/BadgeDB/pull/16) in [wingio/BadgeDB](https://github.com/wingio/BadgeDB)
-4. ❗️ Opened issue [#15](https://github.com/wingio/BadgeDB/issues/15) in [wingio/BadgeDB](https://github.com/wingio/BadgeDB)
-5. ❗️ Closed issue [#2](https://github.com/WolfPlugs/osu/issues/2) in [WolfPlugs/osu](https://github.com/WolfPlugs/osu)
-6. 🗣 Commented on [#2](https://github.com/WolfPlugs/osu/issues/2) in [WolfPlugs/osu](https://github.com/WolfPlugs/osu)
+1. ❗️ Opened issue [#8](https://github.com/MCMrARM/mc-w10-versiondb/issues/8) in [MCMrARM/mc-w10-versiondb](https://github.com/MCMrARM/mc-w10-versiondb)
+2. ❗️ Closed issue [#15](https://github.com/wingio/BadgeDB/issues/15) in [wingio/BadgeDB](https://github.com/wingio/BadgeDB)
+3. 🗣 Commented on [#15](https://github.com/wingio/BadgeDB/issues/15) in [wingio/BadgeDB](https://github.com/wingio/BadgeDB)
+4. 💪 Opened PR [#16](https://github.com/wingio/BadgeDB/pull/16) in [wingio/BadgeDB](https://github.com/wingio/BadgeDB)
+5. ❗️ Opened issue [#15](https://github.com/wingio/BadgeDB/issues/15) in [wingio/BadgeDB](https://github.com/wingio/BadgeDB)
+6. ❗️ Closed issue [#2](https://github.com/WolfPlugs/osu/issues/2) in [WolfPlugs/osu](https://github.com/WolfPlugs/osu)
 <!--END_SECTION:activity-->
 
 
