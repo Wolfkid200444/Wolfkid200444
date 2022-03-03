@@ -37,8 +37,8 @@ on is desk doing nothing but watch Anime all day.
 
 <h1>Contact</h1>
       <p>For any queries: <a href="mailto:helpwolf@gmail.com?Subject=My%20Query">Contact me via email</a></p>
-      <p>Hangout Discord Server: <a href="https://discord.gg/Kf2WCQf">discord.gg/wolfie</a></p>
-      <p>Developer Discord Server: <a href="https://discord.gg/ZU8zFx8">discord.gg/obamabot</a></p>
+      <p>Hangout Discord Server: <a href="https://discord.gg/BK5EGm7jSt">discord.gg/BK5EGm7jSt</a></p>
+      <p>Developer Discord Server: <a href="https://discord.gg/ZU8zFx8">discord.gg/ZU8zFx8</a></p>
       <p>Twitter: <a href="https://twitter.com/RealWolfkid">@RealWolfkid</a></p>
      <!-- <p>My Website: <a href="https://realwolfie.ml">realwolfie.ml</a></p>
 -->
