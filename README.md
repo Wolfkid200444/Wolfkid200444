@@ -40,7 +40,8 @@ on is desk doing nothing but watch Anime all day.
       <p>Hangout Discord Server: <a href="https://discord.gg/Kf2WCQf">discord.gg/wolfie</a></p>
       <p>Developer Discord Server: <a href="https://discord.gg/ZU8zFx8">discord.gg/obamabot</a></p>
       <p>Twitter: <a href="https://twitter.com/RealWolfkid">@RealWolfkid</a></p>
-      <p>My Website: <a href="https://realwolfie.ml">realwolfie.ml</a></p>
+     <!-- <p>My Website: <a href="https://realwolfie.ml">realwolfie.ml</a></p>
+-->
 
 
   <h1> Recent Activity </h1>
