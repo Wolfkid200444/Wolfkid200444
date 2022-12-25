@@ -47,9 +47,9 @@ on is desk doing nothing but watch Anime all day.
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#137](https://github.com/replugged-org/replugged/issues/137) in [replugged-org/replugged](https://github.com/replugged-org/replugged)
-2. 🗣 Commented on [#5](https://github.com/discord-modifications/spotify-crack/issues/5) in [discord-modifications/spotify-crack](https://github.com/discord-modifications/spotify-crack)
-3. 💪 Opened PR [#90](https://github.com/replugged-org/replugged/pull/90) in [replugged-org/replugged](https://github.com/replugged-org/replugged)
+1. 💪 Opened PR [#290](https://github.com/replugged-org/replugged/pull/290) in [replugged-org/replugged](https://github.com/replugged-org/replugged)
+2. ❗️ Opened issue [#555](https://github.com/FTBTeam/FTB-Mods-Issues/issues/555) in [FTBTeam/FTB-Mods-Issues](https://github.com/FTBTeam/FTB-Mods-Issues)
+3. 🎉 Merged PR [#1](https://github.com/WolfPlugs/GlobalBadges/pull/1) in [WolfPlugs/GlobalBadges](https://github.com/WolfPlugs/GlobalBadges)
 4. 🗣 Commented on [#82](https://github.com/replugged-org/replugged/issues/82) in [replugged-org/replugged](https://github.com/replugged-org/replugged)
 5. ❗️ Opened issue [#65](https://github.com/replugged-org/replugged/issues/65) in [replugged-org/replugged](https://github.com/replugged-org/replugged)
 6. ❗️ Closed issue [#63](https://github.com/replugged-org/replugged/issues/63) in [replugged-org/replugged](https://github.com/replugged-org/replugged)
