@@ -47,10 +47,10 @@ on is desk doing nothing but watch Anime all day.
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#290](https://github.com/replugged-org/replugged/pull/290) in [replugged-org/replugged](https://github.com/replugged-org/replugged)
-2. ❗️ Opened issue [#555](https://github.com/FTBTeam/FTB-Mods-Issues/issues/555) in [FTBTeam/FTB-Mods-Issues](https://github.com/FTBTeam/FTB-Mods-Issues)
-3. 🎉 Merged PR [#1](https://github.com/WolfPlugs/GlobalBadges/pull/1) in [WolfPlugs/GlobalBadges](https://github.com/WolfPlugs/GlobalBadges)
-4. 🗣 Commented on [#82](https://github.com/replugged-org/replugged/issues/82) in [replugged-org/replugged](https://github.com/replugged-org/replugged)
+1. 🗣 Commented on [#2](https://github.com/WolfPlugs/GlobalBadges/issues/2) in [WolfPlugs/GlobalBadges](https://github.com/WolfPlugs/GlobalBadges)
+2. 💪 Opened PR [#290](https://github.com/replugged-org/replugged/pull/290) in [replugged-org/replugged](https://github.com/replugged-org/replugged)
+3. ❗️ Opened issue [#555](https://github.com/FTBTeam/FTB-Mods-Issues/issues/555) in [FTBTeam/FTB-Mods-Issues](https://github.com/FTBTeam/FTB-Mods-Issues)
+4. 🎉 Merged PR [#1](https://github.com/WolfPlugs/GlobalBadges/pull/1) in [WolfPlugs/GlobalBadges](https://github.com/WolfPlugs/GlobalBadges)
 5. ❗️ Opened issue [#65](https://github.com/replugged-org/replugged/issues/65) in [replugged-org/replugged](https://github.com/replugged-org/replugged)
 6. ❗️ Closed issue [#63](https://github.com/replugged-org/replugged/issues/63) in [replugged-org/replugged](https://github.com/replugged-org/replugged)
 <!--END_SECTION:activity-->
