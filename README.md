@@ -18,6 +18,9 @@ on is desk doing nothing but watch Anime all day.
 
   <dt>Aliucord Plugins �</dt>
   <dd>- This are random plugins using Java which is a language i started using recently and i hope to get better with it</dd>
+  
+  <dt>Replugged Plugins </dt>
+  <dd>- Plugins for the Discord Mod Client Reppluged, made on typescript<dd>
 </dl>
 
 <!--<a href="https://youtube.com/c/Wolfkid">
