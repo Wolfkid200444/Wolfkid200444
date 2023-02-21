@@ -50,7 +50,7 @@ on is desk doing nothing but watch Anime all day.
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/WolfPlugs/GlobalBadges/issues/1) in [WolfPlugs/GlobalBadges](https://github.com/WolfPlugs/GlobalBadges)
+1. 💪 Opened PR [#1](https://github.com/Numericss/Capturescreen-/pull/1) in [Numericss/Capturescreen-](https://github.com/Numericss/Capturescreen-)
 2. 🗣 Commented on [#1](https://github.com/WolfPlugs/GlobalBadges/issues/1) in [WolfPlugs/GlobalBadges](https://github.com/WolfPlugs/GlobalBadges)
 3. ❗️ Closed issue [#2](https://github.com/WolfPlugs/GlobalBadges/issues/2) in [WolfPlugs/GlobalBadges](https://github.com/WolfPlugs/GlobalBadges)
 4. 🗣 Commented on [#2](https://github.com/WolfPlugs/GlobalBadges/issues/2) in [WolfPlugs/GlobalBadges](https://github.com/WolfPlugs/GlobalBadges)
