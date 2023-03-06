@@ -50,12 +50,12 @@ on is desk doing nothing but watch Anime all day.
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/Prunoideae/ProbeJS/issues/21) in [Prunoideae/ProbeJS](https://github.com/Prunoideae/ProbeJS)
-2. ❗️ Opened issue [#21](https://github.com/Prunoideae/ProbeJS/issues/21) in [Prunoideae/ProbeJS](https://github.com/Prunoideae/ProbeJS)
-3. 🗣 Commented on [#1](https://github.com/Numericss/Capturescreen-/issues/1) in [Numericss/Capturescreen-](https://github.com/Numericss/Capturescreen-)
-4. 💪 Opened PR [#1](https://github.com/Numericss/Capturescreen-/pull/1) in [Numericss/Capturescreen-](https://github.com/Numericss/Capturescreen-)
-5. ❗️ Closed issue [#3](https://github.com/WolfPlugs/GlobalBadges/issues/3) in [WolfPlugs/GlobalBadges](https://github.com/WolfPlugs/GlobalBadges)
-6. 🗣 Commented on [#3](https://github.com/WolfPlugs/GlobalBadges/issues/3) in [WolfPlugs/GlobalBadges](https://github.com/WolfPlugs/GlobalBadges)
+1. 💪 Opened PR [#1](https://github.com/ladylexxie/ladylexxie.github.io/pull/1) in [ladylexxie/ladylexxie.github.io](https://github.com/ladylexxie/ladylexxie.github.io)
+2. 🎉 Merged PR [#1](https://github.com/Wolfkid200444/ladylexxie.github.io/pull/1) in [Wolfkid200444/ladylexxie.github.io](https://github.com/Wolfkid200444/ladylexxie.github.io)
+3. 💪 Opened PR [#1](https://github.com/Wolfkid200444/ladylexxie.github.io/pull/1) in [Wolfkid200444/ladylexxie.github.io](https://github.com/Wolfkid200444/ladylexxie.github.io)
+4. 🗣 Commented on [#21](https://github.com/Prunoideae/ProbeJS/issues/21) in [Prunoideae/ProbeJS](https://github.com/Prunoideae/ProbeJS)
+5. ❗️ Opened issue [#21](https://github.com/Prunoideae/ProbeJS/issues/21) in [Prunoideae/ProbeJS](https://github.com/Prunoideae/ProbeJS)
+6. 🗣 Commented on [#1](https://github.com/Numericss/Capturescreen-/issues/1) in [Numericss/Capturescreen-](https://github.com/Numericss/Capturescreen-)
 <!--END_SECTION:activity-->
 
 
