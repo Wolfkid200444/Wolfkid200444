@@ -50,12 +50,12 @@ on is desk doing nothing but watch Anime all day.
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/HypedDomi/Vencord-Plugins/pull/1) in [HypedDomi/Vencord-Plugins](https://github.com/HypedDomi/Vencord-Plugins)
-2. 💪 Opened PR [#2](https://github.com/beerpiss/enmity/pull/2) in [beerpiss/enmity](https://github.com/beerpiss/enmity)
-3. 🗣 Commented on [#1](https://github.com/WolfPlugs/venplugins/issues/1) in [WolfPlugs/venplugins](https://github.com/WolfPlugs/venplugins)
+1. 💪 Opened PR [#1](https://github.com/VodkaXMartini/Trial/pull/1) in [VodkaXMartini/Trial](https://github.com/VodkaXMartini/Trial)
+2. 💪 Opened PR [#1](https://github.com/HypedDomi/Vencord-Plugins/pull/1) in [HypedDomi/Vencord-Plugins](https://github.com/HypedDomi/Vencord-Plugins)
+3. 💪 Opened PR [#2](https://github.com/beerpiss/enmity/pull/2) in [beerpiss/enmity](https://github.com/beerpiss/enmity)
 4. 🗣 Commented on [#1](https://github.com/WolfPlugs/venplugins/issues/1) in [WolfPlugs/venplugins](https://github.com/WolfPlugs/venplugins)
-5. ❗️ Opened issue [#1](https://github.com/WolfPlugs/venplugins/issues/1) in [WolfPlugs/venplugins](https://github.com/WolfPlugs/venplugins)
-6. 🗣 Commented on [#9](https://github.com/anihacc/Ultimacraft-project-public-notice/issues/9) in [anihacc/Ultimacraft-project-public-notice](https://github.com/anihacc/Ultimacraft-project-public-notice)
+5. 🗣 Commented on [#1](https://github.com/WolfPlugs/venplugins/issues/1) in [WolfPlugs/venplugins](https://github.com/WolfPlugs/venplugins)
+6. ❗️ Opened issue [#1](https://github.com/WolfPlugs/venplugins/issues/1) in [WolfPlugs/venplugins](https://github.com/WolfPlugs/venplugins)
 <!--END_SECTION:activity-->
 
 
