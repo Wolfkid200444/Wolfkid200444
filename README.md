@@ -50,11 +50,11 @@ on is desk doing nothing but watch Anime all day.
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/WolfPlugs/vendetta-plugins/pull/1) in [WolfPlugs/vendetta-plugins](https://github.com/WolfPlugs/vendetta-plugins)
-2. 💪 Opened PR [#1](https://github.com/VodkaXMartini/Trial/pull/1) in [VodkaXMartini/Trial](https://github.com/VodkaXMartini/Trial)
-3. 💪 Opened PR [#1](https://github.com/HypedDomi/Vencord-Plugins/pull/1) in [HypedDomi/Vencord-Plugins](https://github.com/HypedDomi/Vencord-Plugins)
-4. 💪 Opened PR [#2](https://github.com/beerpiss/enmity/pull/2) in [beerpiss/enmity](https://github.com/beerpiss/enmity)
-5. 🗣 Commented on [#1](https://github.com/WolfPlugs/venplugins/issues/1) in [WolfPlugs/venplugins](https://github.com/WolfPlugs/venplugins)
+1. 🎉 Merged PR [#2](https://github.com/WolfPlugs/vendetta-plugins/pull/2) in [WolfPlugs/vendetta-plugins](https://github.com/WolfPlugs/vendetta-plugins)
+2. 🎉 Merged PR [#1](https://github.com/WolfPlugs/vendetta-plugins/pull/1) in [WolfPlugs/vendetta-plugins](https://github.com/WolfPlugs/vendetta-plugins)
+3. 💪 Opened PR [#1](https://github.com/VodkaXMartini/Trial/pull/1) in [VodkaXMartini/Trial](https://github.com/VodkaXMartini/Trial)
+4. 💪 Opened PR [#1](https://github.com/HypedDomi/Vencord-Plugins/pull/1) in [HypedDomi/Vencord-Plugins](https://github.com/HypedDomi/Vencord-Plugins)
+5. 💪 Opened PR [#2](https://github.com/beerpiss/enmity/pull/2) in [beerpiss/enmity](https://github.com/beerpiss/enmity)
 6. 🗣 Commented on [#1](https://github.com/WolfPlugs/venplugins/issues/1) in [WolfPlugs/venplugins](https://github.com/WolfPlugs/venplugins)
 <!--END_SECTION:activity-->
 
