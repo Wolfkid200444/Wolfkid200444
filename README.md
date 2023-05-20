@@ -53,8 +53,8 @@ on is desk doing nothing but watch Anime all day.
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#443](https://github.com/replugged-org/replugged/pull/443) in [replugged-org/replugged](https://github.com/replugged-org/replugged)
-2. ❗️ Opened issue [#442](https://github.com/replugged-org/replugged/issues/442) in [replugged-org/replugged](https://github.com/replugged-org/replugged)
+1. 🎉 Merged PR [#1](https://github.com/WolfPlugs/ImageUtilities/pull/1) in [WolfPlugs/ImageUtilities](https://github.com/WolfPlugs/ImageUtilities)
+2. 💪 Opened PR [#443](https://github.com/replugged-org/replugged/pull/443) in [replugged-org/replugged](https://github.com/replugged-org/replugged)
 3. 🎉 Merged PR [#3](https://github.com/WolfPlugs/vendetta-plugins/pull/3) in [WolfPlugs/vendetta-plugins](https://github.com/WolfPlugs/vendetta-plugins)
 4. 🎉 Merged PR [#2](https://github.com/WolfPlugs/vendetta-plugins/pull/2) in [WolfPlugs/vendetta-plugins](https://github.com/WolfPlugs/vendetta-plugins)
 5. 🎉 Merged PR [#1](https://github.com/WolfPlugs/vendetta-plugins/pull/1) in [WolfPlugs/vendetta-plugins](https://github.com/WolfPlugs/vendetta-plugins)
