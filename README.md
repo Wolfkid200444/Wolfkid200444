@@ -53,11 +53,11 @@ on is desk doing nothing but watch Anime all day.
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/WolfPlugs/ImageUtilities/issues/4) in [WolfPlugs/ImageUtilities](https://github.com/WolfPlugs/ImageUtilities)
-2. ❗️ Opened issue [#3](https://github.com/WolfPlugs/ImageUtilities/issues/3) in [WolfPlugs/ImageUtilities](https://github.com/WolfPlugs/ImageUtilities)
-3. ❗️ Opened issue [#2](https://github.com/WolfPlugs/ImageUtilities/issues/2) in [WolfPlugs/ImageUtilities](https://github.com/WolfPlugs/ImageUtilities)
-4. 🎉 Merged PR [#1](https://github.com/WolfPlugs/ImageUtilities/pull/1) in [WolfPlugs/ImageUtilities](https://github.com/WolfPlugs/ImageUtilities)
-5. 🎉 Merged PR [#1](https://github.com/WolfPlugs/vendetta-plugins/pull/1) in [WolfPlugs/vendetta-plugins](https://github.com/WolfPlugs/vendetta-plugins)
+1. 🗣 Commented on [#1](https://github.com/WolfPlugs/HolyNotes/issues/1) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
+2. ❗️ Opened issue [#4](https://github.com/WolfPlugs/ImageUtilities/issues/4) in [WolfPlugs/ImageUtilities](https://github.com/WolfPlugs/ImageUtilities)
+3. ❗️ Opened issue [#3](https://github.com/WolfPlugs/ImageUtilities/issues/3) in [WolfPlugs/ImageUtilities](https://github.com/WolfPlugs/ImageUtilities)
+4. ❗️ Opened issue [#2](https://github.com/WolfPlugs/ImageUtilities/issues/2) in [WolfPlugs/ImageUtilities](https://github.com/WolfPlugs/ImageUtilities)
+5. 🎉 Merged PR [#1](https://github.com/WolfPlugs/ImageUtilities/pull/1) in [WolfPlugs/ImageUtilities](https://github.com/WolfPlugs/ImageUtilities)
 6. 💪 Opened PR [#1](https://github.com/VodkaXMartini/Trial/pull/1) in [VodkaXMartini/Trial](https://github.com/VodkaXMartini/Trial)
 <!--END_SECTION:activity-->
 
