@@ -53,12 +53,12 @@ on is desk doing nothing but watch Anime all day.
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/WolfPlugs/HolyNotes/pull/5) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
-2. 💪 Opened PR [#5](https://github.com/WolfPlugs/HolyNotes/pull/5) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
-3. 🎉 Merged PR [#4](https://github.com/WolfPlugs/HolyNotes/pull/4) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
-4. 🗣 Commented on [#3](https://github.com/WolfPlugs/HolyNotes/issues/3) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
+1. 🎉 Merged PR [#7](https://github.com/WolfPlugs/HolyNotes/pull/7) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
+2. 🎉 Merged PR [#5](https://github.com/WolfPlugs/HolyNotes/pull/5) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
+3. 💪 Opened PR [#5](https://github.com/WolfPlugs/HolyNotes/pull/5) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
+4. 🎉 Merged PR [#4](https://github.com/WolfPlugs/HolyNotes/pull/4) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
 5. 🗣 Commented on [#3](https://github.com/WolfPlugs/HolyNotes/issues/3) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
-6. 🎉 Merged PR [#2](https://github.com/WolfPlugs/HolyNotes/pull/2) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
+6. 🗣 Commented on [#3](https://github.com/WolfPlugs/HolyNotes/issues/3) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
 <!--END_SECTION:activity-->
 
 
