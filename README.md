@@ -53,12 +53,12 @@ on is desk doing nothing but watch Anime all day.
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/WolfPlugs/ImageUtilities/pull/7) in [WolfPlugs/ImageUtilities](https://github.com/WolfPlugs/ImageUtilities)
-2. 💪 Opened PR [#283](https://github.com/Discord-Custom-Covers/usrbg/pull/283) in [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg)
-3. 🎉 Merged PR [#6](https://github.com/WolfPlugs/ImageUtilities/pull/6) in [WolfPlugs/ImageUtilities](https://github.com/WolfPlugs/ImageUtilities)
-4. ❗ Opened issue [#18](https://github.com/Jorixon/JASM/issues/18) in [Jorixon/JASM](https://github.com/Jorixon/JASM)
-5. 🎉 Merged PR [#5](https://github.com/WolfPlugs/ImageUtilities/pull/5) in [WolfPlugs/ImageUtilities](https://github.com/WolfPlugs/ImageUtilities)
-6. 💪 Opened PR [#114](https://github.com/vermaysha/hoyoapi/pull/114) in [vermaysha/hoyoapi](https://github.com/vermaysha/hoyoapi)
+1. 🗣 Commented on [#5](https://github.com/WolfPlugs/GlobalBadges/issues/5#issuecomment-1792202918) in [WolfPlugs/GlobalBadges](https://github.com/WolfPlugs/GlobalBadges)
+2. 🔒 Closed issue [#5](https://github.com/WolfPlugs/GlobalBadges/issues/5) in [WolfPlugs/GlobalBadges](https://github.com/WolfPlugs/GlobalBadges)
+3. 🎉 Merged PR [#7](https://github.com/WolfPlugs/ImageUtilities/pull/7) in [WolfPlugs/ImageUtilities](https://github.com/WolfPlugs/ImageUtilities)
+4. 💪 Opened PR [#283](https://github.com/Discord-Custom-Covers/usrbg/pull/283) in [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg)
+5. 🎉 Merged PR [#6](https://github.com/WolfPlugs/ImageUtilities/pull/6) in [WolfPlugs/ImageUtilities](https://github.com/WolfPlugs/ImageUtilities)
+6. ❗ Opened issue [#18](https://github.com/Jorixon/JASM/issues/18) in [Jorixon/JASM](https://github.com/Jorixon/JASM)
 <!--END_SECTION:activity-->
 
 
