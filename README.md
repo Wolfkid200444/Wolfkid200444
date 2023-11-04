@@ -53,12 +53,12 @@ on is desk doing nothing but watch Anime all day.
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/WolfPlugs/HolyNotes/pull/11) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
-2. 💪 Opened PR [#65](https://github.com/WolfPlugs/GiBBy/pull/65) in [WolfPlugs/GiBBy](https://github.com/WolfPlugs/GiBBy)
-3. 🗣 Commented on [#5](https://github.com/WolfPlugs/GlobalBadges/issues/5#issuecomment-1792202918) in [WolfPlugs/GlobalBadges](https://github.com/WolfPlugs/GlobalBadges)
-4. 🔒 Closed issue [#5](https://github.com/WolfPlugs/GlobalBadges/issues/5) in [WolfPlugs/GlobalBadges](https://github.com/WolfPlugs/GlobalBadges)
-5. 🎉 Merged PR [#7](https://github.com/WolfPlugs/ImageUtilities/pull/7) in [WolfPlugs/ImageUtilities](https://github.com/WolfPlugs/ImageUtilities)
-6. 💪 Opened PR [#283](https://github.com/Discord-Custom-Covers/usrbg/pull/283) in [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg)
+1. 🎉 Merged PR [#11](https://github.com/WolfPlugs/HolyNotes/pull/11) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
+2. 💪 Opened PR [#11](https://github.com/WolfPlugs/HolyNotes/pull/11) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
+3. 💪 Opened PR [#65](https://github.com/WolfPlugs/GiBBy/pull/65) in [WolfPlugs/GiBBy](https://github.com/WolfPlugs/GiBBy)
+4. 🗣 Commented on [#5](https://github.com/WolfPlugs/GlobalBadges/issues/5#issuecomment-1792202918) in [WolfPlugs/GlobalBadges](https://github.com/WolfPlugs/GlobalBadges)
+5. 🔒 Closed issue [#5](https://github.com/WolfPlugs/GlobalBadges/issues/5) in [WolfPlugs/GlobalBadges](https://github.com/WolfPlugs/GlobalBadges)
+6. 🎉 Merged PR [#7](https://github.com/WolfPlugs/ImageUtilities/pull/7) in [WolfPlugs/ImageUtilities](https://github.com/WolfPlugs/ImageUtilities)
 <!--END_SECTION:activity-->
 
 
