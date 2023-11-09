@@ -53,12 +53,12 @@ on is desk doing nothing but watch Anime all day.
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/WolfPlugs/ImageUtilities/pull/8) in [WolfPlugs/ImageUtilities](https://github.com/WolfPlugs/ImageUtilities)
-2. 🗣 Commented on [#65](https://github.com/WolfPlugs/GiBBy/pull/65#issuecomment-1793575244) in [WolfPlugs/GiBBy](https://github.com/WolfPlugs/GiBBy)
-3. 🗣 Commented on [#65](https://github.com/WolfPlugs/GiBBy/pull/65#issuecomment-1793570302) in [WolfPlugs/GiBBy](https://github.com/WolfPlugs/GiBBy)
-4. 🎉 Merged PR [#11](https://github.com/WolfPlugs/HolyNotes/pull/11) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
-5. 💪 Opened PR [#11](https://github.com/WolfPlugs/HolyNotes/pull/11) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
-6. 💪 Opened PR [#65](https://github.com/WolfPlugs/GiBBy/pull/65) in [WolfPlugs/GiBBy](https://github.com/WolfPlugs/GiBBy)
+1. ❗ Opened issue [#6](https://github.com/WolfPlugs/GlobalBadges/issues/6) in [WolfPlugs/GlobalBadges](https://github.com/WolfPlugs/GlobalBadges)
+2. 💪 Opened PR [#8](https://github.com/WolfPlugs/ImageUtilities/pull/8) in [WolfPlugs/ImageUtilities](https://github.com/WolfPlugs/ImageUtilities)
+3. 🗣 Commented on [#65](https://github.com/WolfPlugs/GiBBy/pull/65#issuecomment-1793575244) in [WolfPlugs/GiBBy](https://github.com/WolfPlugs/GiBBy)
+4. 🗣 Commented on [#65](https://github.com/WolfPlugs/GiBBy/pull/65#issuecomment-1793570302) in [WolfPlugs/GiBBy](https://github.com/WolfPlugs/GiBBy)
+5. 🎉 Merged PR [#11](https://github.com/WolfPlugs/HolyNotes/pull/11) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
+6. 💪 Opened PR [#11](https://github.com/WolfPlugs/HolyNotes/pull/11) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
 <!--END_SECTION:activity-->
 
 
