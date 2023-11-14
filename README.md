@@ -53,12 +53,12 @@ on is desk doing nothing but watch Anime all day.
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/domi-btnr/ClientModBadges-API/issues/4) in [domi-btnr/ClientModBadges-API](https://github.com/domi-btnr/ClientModBadges-API)
-2. ❗ Opened issue [#6](https://github.com/WolfPlugs/GlobalBadges/issues/6) in [WolfPlugs/GlobalBadges](https://github.com/WolfPlugs/GlobalBadges)
-3. 💪 Opened PR [#8](https://github.com/WolfPlugs/ImageUtilities/pull/8) in [WolfPlugs/ImageUtilities](https://github.com/WolfPlugs/ImageUtilities)
-4. 🗣 Commented on [#65](https://github.com/WolfPlugs/GiBBy/pull/65#issuecomment-1793575244) in [WolfPlugs/GiBBy](https://github.com/WolfPlugs/GiBBy)
-5. 🗣 Commented on [#65](https://github.com/WolfPlugs/GiBBy/pull/65#issuecomment-1793570302) in [WolfPlugs/GiBBy](https://github.com/WolfPlugs/GiBBy)
-6. 🎉 Merged PR [#11](https://github.com/WolfPlugs/HolyNotes/pull/11) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
+1. 🎉 Merged PR [#9](https://github.com/WolfPlugs/ImageUtilities/pull/9) in [WolfPlugs/ImageUtilities](https://github.com/WolfPlugs/ImageUtilities)
+2. ❗ Opened issue [#4](https://github.com/domi-btnr/ClientModBadges-API/issues/4) in [domi-btnr/ClientModBadges-API](https://github.com/domi-btnr/ClientModBadges-API)
+3. ❗ Opened issue [#6](https://github.com/WolfPlugs/GlobalBadges/issues/6) in [WolfPlugs/GlobalBadges](https://github.com/WolfPlugs/GlobalBadges)
+4. 💪 Opened PR [#8](https://github.com/WolfPlugs/ImageUtilities/pull/8) in [WolfPlugs/ImageUtilities](https://github.com/WolfPlugs/ImageUtilities)
+5. 🗣 Commented on [#65](https://github.com/WolfPlugs/GiBBy/pull/65#issuecomment-1793575244) in [WolfPlugs/GiBBy](https://github.com/WolfPlugs/GiBBy)
+6. 🗣 Commented on [#65](https://github.com/WolfPlugs/GiBBy/pull/65#issuecomment-1793570302) in [WolfPlugs/GiBBy](https://github.com/WolfPlugs/GiBBy)
 <!--END_SECTION:activity-->
 
 
