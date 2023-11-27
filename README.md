@@ -53,12 +53,12 @@ on is desk doing nothing but watch Anime all day.
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4](https://github.com/domi-btnr/ClientModBadges-API/issues/4) in [domi-btnr/ClientModBadges-API](https://github.com/domi-btnr/ClientModBadges-API)
-2. 🎉 Merged PR [#9](https://github.com/WolfPlugs/ImageUtilities/pull/9) in [WolfPlugs/ImageUtilities](https://github.com/WolfPlugs/ImageUtilities)
-3. ❗ Opened issue [#4](https://github.com/domi-btnr/ClientModBadges-API/issues/4) in [domi-btnr/ClientModBadges-API](https://github.com/domi-btnr/ClientModBadges-API)
-4. ❗ Opened issue [#6](https://github.com/WolfPlugs/GlobalBadges/issues/6) in [WolfPlugs/GlobalBadges](https://github.com/WolfPlugs/GlobalBadges)
-5. 💪 Opened PR [#8](https://github.com/WolfPlugs/ImageUtilities/pull/8) in [WolfPlugs/ImageUtilities](https://github.com/WolfPlugs/ImageUtilities)
-6. 🗣 Commented on [#65](https://github.com/WolfPlugs/GiBBy/pull/65#issuecomment-1793575244) in [WolfPlugs/GiBBy](https://github.com/WolfPlugs/GiBBy)
+1. 💪 Opened PR [#1020](https://github.com/spicetify/spicetify-themes/pull/1020) in [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes)
+2. 🔒 Closed issue [#4](https://github.com/domi-btnr/ClientModBadges-API/issues/4) in [domi-btnr/ClientModBadges-API](https://github.com/domi-btnr/ClientModBadges-API)
+3. 🎉 Merged PR [#9](https://github.com/WolfPlugs/ImageUtilities/pull/9) in [WolfPlugs/ImageUtilities](https://github.com/WolfPlugs/ImageUtilities)
+4. ❗ Opened issue [#4](https://github.com/domi-btnr/ClientModBadges-API/issues/4) in [domi-btnr/ClientModBadges-API](https://github.com/domi-btnr/ClientModBadges-API)
+5. ❗ Opened issue [#6](https://github.com/WolfPlugs/GlobalBadges/issues/6) in [WolfPlugs/GlobalBadges](https://github.com/WolfPlugs/GlobalBadges)
+6. 💪 Opened PR [#8](https://github.com/WolfPlugs/ImageUtilities/pull/8) in [WolfPlugs/ImageUtilities](https://github.com/WolfPlugs/ImageUtilities)
 <!--END_SECTION:activity-->
 
 
