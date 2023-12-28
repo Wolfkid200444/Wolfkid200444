@@ -53,12 +53,12 @@ on is desk doing nothing but watch Anime all day.
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/WolfPlugs/decor/pull/5) in [WolfPlugs/decor](https://github.com/WolfPlugs/decor)
-2. 🎉 Merged PR [#4](https://github.com/WolfPlugs/decor/pull/4) in [WolfPlugs/decor](https://github.com/WolfPlugs/decor)
-3. 🎉 Merged PR [#2](https://github.com/WolfPlugs/decor/pull/2) in [WolfPlugs/decor](https://github.com/WolfPlugs/decor)
-4. 🎉 Merged PR [#1](https://github.com/WolfPlugs/decor/pull/1) in [WolfPlugs/decor](https://github.com/WolfPlugs/decor)
-5. 💪 Opened PR [#1020](https://github.com/spicetify/spicetify-themes/pull/1020) in [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes)
-6. 🔒 Closed issue [#4](https://github.com/domi-btnr/ClientModBadges-API/issues/4) in [domi-btnr/ClientModBadges-API](https://github.com/domi-btnr/ClientModBadges-API)
+1. ❗ Opened issue [#107](https://github.com/Jorixon/JASM/issues/107) in [Jorixon/JASM](https://github.com/Jorixon/JASM)
+2. 🎉 Merged PR [#5](https://github.com/WolfPlugs/decor/pull/5) in [WolfPlugs/decor](https://github.com/WolfPlugs/decor)
+3. 🎉 Merged PR [#4](https://github.com/WolfPlugs/decor/pull/4) in [WolfPlugs/decor](https://github.com/WolfPlugs/decor)
+4. 🎉 Merged PR [#2](https://github.com/WolfPlugs/decor/pull/2) in [WolfPlugs/decor](https://github.com/WolfPlugs/decor)
+5. 🎉 Merged PR [#1](https://github.com/WolfPlugs/decor/pull/1) in [WolfPlugs/decor](https://github.com/WolfPlugs/decor)
+6. 💪 Opened PR [#1020](https://github.com/spicetify/spicetify-themes/pull/1020) in [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes)
 <!--END_SECTION:activity-->
 
 
