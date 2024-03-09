@@ -53,12 +53,12 @@ on is desk doing nothing but watch Anime all day.
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/WolfPlugs/HolyNotes/issues/9#issuecomment-1979319406) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
-2. 🔒 Closed issue [#9](https://github.com/WolfPlugs/HolyNotes/issues/9) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
-3. 🗣 Commented on [#12](https://github.com/WolfPlugs/HolyNotes/issues/12#issuecomment-1975249645) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
-4. 🔒 Closed issue [#12](https://github.com/WolfPlugs/HolyNotes/issues/12) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
-5. 🗣 Commented on [#14361](https://github.com/files-community/Files/issues/14361#issuecomment-1913132146) in [files-community/Files](https://github.com/files-community/Files)
-6. 🗣 Commented on [#14361](https://github.com/files-community/Files/issues/14361#issuecomment-1910101204) in [files-community/Files](https://github.com/files-community/Files)
+1. 🗣 Commented on [#2246](https://github.com/Vendicated/Vencord/pull/2246#issuecomment-1986928993) in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)
+2. 💪 Opened PR [#2246](https://github.com/Vendicated/Vencord/pull/2246) in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)
+3. 🗣 Commented on [#9](https://github.com/WolfPlugs/HolyNotes/issues/9#issuecomment-1979319406) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
+4. 🔒 Closed issue [#9](https://github.com/WolfPlugs/HolyNotes/issues/9) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
+5. 🗣 Commented on [#12](https://github.com/WolfPlugs/HolyNotes/issues/12#issuecomment-1975249645) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
+6. 🔒 Closed issue [#12](https://github.com/WolfPlugs/HolyNotes/issues/12) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
 <!--END_SECTION:activity-->
 
 
