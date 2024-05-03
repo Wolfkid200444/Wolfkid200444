@@ -53,12 +53,12 @@ on is desk doing nothing but watch Anime all day.
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/stanuwu/PixelGun3DPCCheat/issues/5) in [stanuwu/PixelGun3DPCCheat](https://github.com/stanuwu/PixelGun3DPCCheat)
-2. 🎉 Merged PR [#1](https://github.com/WolfPlugs/VencordPlugins/pull/1) in [WolfPlugs/VencordPlugins](https://github.com/WolfPlugs/VencordPlugins)
-3. 🗣 Commented on [#2246](https://github.com/Vendicated/Vencord/pull/2246#issuecomment-1986928993) in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)
-4. 💪 Opened PR [#2246](https://github.com/Vendicated/Vencord/pull/2246) in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)
-5. 🗣 Commented on [#9](https://github.com/WolfPlugs/HolyNotes/issues/9#issuecomment-1979319406) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
-6. 🔒 Closed issue [#9](https://github.com/WolfPlugs/HolyNotes/issues/9) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
+1. 🗣 Commented on [#1](https://github.com/wolf-mc-mods/EmoteTweaks/issues/1#issuecomment-2093052471) in [wolf-mc-mods/EmoteTweaks](https://github.com/wolf-mc-mods/EmoteTweaks)
+2. ❗ Opened issue [#5](https://github.com/stanuwu/PixelGun3DPCCheat/issues/5) in [stanuwu/PixelGun3DPCCheat](https://github.com/stanuwu/PixelGun3DPCCheat)
+3. 🎉 Merged PR [#1](https://github.com/WolfPlugs/VencordPlugins/pull/1) in [WolfPlugs/VencordPlugins](https://github.com/WolfPlugs/VencordPlugins)
+4. 🗣 Commented on [#2246](https://github.com/Vendicated/Vencord/pull/2246#issuecomment-1986928993) in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)
+5. 💪 Opened PR [#2246](https://github.com/Vendicated/Vencord/pull/2246) in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)
+6. 🗣 Commented on [#9](https://github.com/WolfPlugs/HolyNotes/issues/9#issuecomment-1979319406) in [WolfPlugs/HolyNotes](https://github.com/WolfPlugs/HolyNotes)
 <!--END_SECTION:activity-->
 
 
