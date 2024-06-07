@@ -53,12 +53,12 @@ on is desk doing nothing but watch Anime all day.
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#188](https://github.com/Jorixon/JASM/issues/188) in [Jorixon/JASM](https://github.com/Jorixon/JASM)
-2. 🗣 Commented on [#2246](https://github.com/Vendicated/Vencord/pull/2246#issuecomment-2120410515) in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)
-3. 🗣 Commented on [#2246](https://github.com/Vendicated/Vencord/pull/2246#issuecomment-2108524426) in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)
-4. 🗣 Commented on [#1](https://github.com/wolf-mc-mods/EmoteTweaks/issues/1#issuecomment-2093052471) in [wolf-mc-mods/EmoteTweaks](https://github.com/wolf-mc-mods/EmoteTweaks)
-5. ❗ Opened issue [#5](https://github.com/stanuwu/PixelGun3DPCCheat/issues/5) in [stanuwu/PixelGun3DPCCheat](https://github.com/stanuwu/PixelGun3DPCCheat)
-6. 🎉 Merged PR [#1](https://github.com/WolfPlugs/VencordPlugins/pull/1) in [WolfPlugs/VencordPlugins](https://github.com/WolfPlugs/VencordPlugins)
+1. 💪 Opened PR [#1](https://github.com/totallynotnochi/mihoyo.systems/pull/1) in [totallynotnochi/mihoyo.systems](https://github.com/totallynotnochi/mihoyo.systems)
+2. ❗ Opened issue [#188](https://github.com/Jorixon/JASM/issues/188) in [Jorixon/JASM](https://github.com/Jorixon/JASM)
+3. 🗣 Commented on [#2246](https://github.com/Vendicated/Vencord/pull/2246#issuecomment-2120410515) in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)
+4. 🗣 Commented on [#2246](https://github.com/Vendicated/Vencord/pull/2246#issuecomment-2108524426) in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)
+5. 🗣 Commented on [#1](https://github.com/wolf-mc-mods/EmoteTweaks/issues/1#issuecomment-2093052471) in [wolf-mc-mods/EmoteTweaks](https://github.com/wolf-mc-mods/EmoteTweaks)
+6. ❗ Opened issue [#5](https://github.com/stanuwu/PixelGun3DPCCheat/issues/5) in [stanuwu/PixelGun3DPCCheat](https://github.com/stanuwu/PixelGun3DPCCheat)
 <!--END_SECTION:activity-->
 
 
