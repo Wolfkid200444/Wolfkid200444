@@ -1,53 +1,121 @@
-
-<img align="right" alt="profile" width=30% src="https://avatars1.githubusercontent.com/u/32025746?s=460&u=b71f51a6d786a0817807f3e953f36734ac4493c7&v=4">
-
-<h1>Wolf 🐺</h1>
-
-<p>Hello my name is Jesus 
-
-im a Developer who waste most of is time sitting
-on is desk doing nothing but watch Anime all day.
-
-</p>
-
-
-<h3>Current Project's</h3>
-<dl>
-  <dt>Obama Bot 🤖</dt>
-  <dd>- This bot is for Discord and made on JavaScript was orginaly made for a joke and ended up getting too popular</dd>
+<div align="center">
   
-  <dt>Vendetta Plugins �</dt>
-  <dd>- These are typescript plugins for the react native version of discord mobile for the mod client vendetta</dd>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=F7F7F7&center=true&random=false&width=435&lines=%E2%AD%90+Hello%2C+Im+Wolfie+%E2%AD%90;A+programmer+from+PuertoRico%2C+%F0%9F%98%81)](https://git.io/typing-svg)
+</div>
+
+--- 
+
+<div align="center">
+  <a href="mailto:helpwolf@gmail.com?Subject=My%20Query" style="margin-right: 10px;">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
   
-  <dt>Aliucord Plugins �</dt>
-  <dd>- This are random plugins using Java which is a language i started using recently and i hope to get better with it</dd>
+  <a href="https://discord.gg/BK5EGm7jSt" style="margin-right: 10px;">
+    <img alt="Hangout Discord Server" src="https://dcbadge.limes.pink/api/server/BK5EGm7jSt">
+  </a>
   
-  <dt>Replugged Plugins </dt>
-  <dd>- Plugins for the Discord Mod Client Reppluged, made on typescript<dd>
-</dl>
+  <a href="https://discord.gg/eTvYv95PCG" style="margin-right: 10px;">
+    <img alt="Developer Discord Server" src="https://dcbadge.limes.pink/api/server/eTvYv95PCG">
+  </a>
+  
+  <a href="https://twitter.com/RealWolfkid">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
 
-<!--<a href="https://youtube.com/c/Wolfkid">
+  <p>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Wolfkid200444.Wolfkid200444" alt="visitors">
+  </p>
+</div>
 
-<img src="https://img.shields.io/badge/Wolfkid%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
--->
+```Javascript
+class Me {
+  constructor() {
+    this.name = "Jesus";
+    this.age = 19;
+    this.location = "Puerto Rico";
+    this.languages = ["JavaScript", "TypeScript", "Java", "Kotlin"];
+  }
+
+  getStatus() {
+    return "I'm a developer who wastes most of his time sitting at his desk doing nothing but watching anime all day.";
+  }
+}
+```
+
+---
+
+
+<div style="margin-top: 30px;">
+  <dl style="margin-bottom: 20px;">
+  <h3 align="center"> 🧰 Current Projects </h3>
+    <dd>
+      <table>
+        <tr>
+          <td><strong>Obama Bot 🤖</strong></td>
+          <td>- This bot is for Discord and made on JavaScript was originally made for a joke and ended up getting too popular</td>
+        </tr>
+        <tr>
+          <td><strong>Vendetta Plugins 🛠️</strong></td>
+          <td>- These are TypeScript plugins for the React Native version of Discord mobile for the mod client Vendetta</td>
+        </tr>
+        <tr>
+          <td><strong>Aliucord Plugins 💡</strong></td>
+          <td>- These are random plugins using Java, which is a language I started using recently and I hope to get better with it</td>
+        </tr>
+        <tr>
+          <td><strong>Replugged Plugins 🔌</strong></td>
+          <td>- Plugins for the Discord Mod Client Replugged, made on TypeScript</td>
+        </tr>
+      </table>
+    </dd>
+  </dl>
+</div>
 
 
 
 
-<details>  
-<summary>:zap: Github Stats</summary>
-<a href="https://youtube.com/c/Wolfkid">
-<img align="left" alt="Wolf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Wolfkid200444&show_icons=true&theme=tokyonight" />
-<img align="bottom" alt="Wolf's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfkid200444&show_icons=true&theme=tokyonight"/>
-  </details>
+---
 
-<h1>Contact</h1>
-      <p>For any queries: <a href="mailto:helpwolf@gmail.com?Subject=My%20Query">Contact me via email</a></p>
-      <p>Hangout Discord Server: <a href="https://discord.gg/BK5EGm7jSt">discord.gg/BK5EGm7jSt</a></p>
-      <p>Developer Discord Server: <a href="https://discord.gg/eTvYv95PCG">discord.gg/eTvYv95PCG</a></p>
-      <p>Twitter: <a href="https://twitter.com/RealWolfkid">@RealWolfkid</a></p>
-     <!-- <p>My Website: <a href="https://realwolfie.ml">realwolfie.ml</a></p>
--->
+
+<h3 align="center"> 🤖 Information </h3>
+
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" valign="middle" style="border: none;">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfkid200444&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=F4DEC8"
+        alt="Top Languages"
+      />
+    </td>
+    <td align="center" valign="middle" style="border: none;">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Wolfkid200444&show_icons=true&theme=tokyonight&hide_border=true"
+        alt="GitHub Stats"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" style="border: none;">
+      <a href="https://git.io/streak-stats">
+        <img
+          src="https://streak-stats.demolab.com?user=Wolfkid200444&theme=tokyonight&hide_border=true"
+          alt="GitHub Streak"
+        />
+      </a>
+    </td>
+    <td align="center" valign="middle" style="border: none;">
+      <div style="margin-top: 30px;">
+        <!-- Discord Presence -->
+        <a href="https://discord.com/users/347096063569559553" target="_blank">
+          <img height="200" src="https://lanyard.cnrad.dev/api/347096063569559553" alt="Discord Presence">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
+---
 
 
   <h1> Recent Activity </h1>
@@ -60,8 +128,3 @@ on is desk doing nothing but watch Anime all day.
 5. 🗣 Commented on [#1](https://github.com/wolf-mc-mods/EmoteTweaks/issues/1#issuecomment-2093052471) in [wolf-mc-mods/EmoteTweaks](https://github.com/wolf-mc-mods/EmoteTweaks)
 6. ❗ Opened issue [#5](https://github.com/stanuwu/PixelGun3DPCCheat/issues/5) in [stanuwu/PixelGun3DPCCheat](https://github.com/stanuwu/PixelGun3DPCCheat)
 <!--END_SECTION:activity-->
-
-
-  <h1> Midly cool Stats </h1>
-
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Wolfkid200444.Wolfkid200444)
