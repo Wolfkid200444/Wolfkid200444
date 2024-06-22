@@ -121,10 +121,10 @@ class Me {
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/totallynotnochi/mihoyo.systems/pull/1#issuecomment-2161674393) in [totallynotnochi/mihoyo.systems](https://github.com/totallynotnochi/mihoyo.systems)
-2. 💪 Opened PR [#1](https://github.com/totallynotnochi/mihoyo.systems/pull/1) in [totallynotnochi/mihoyo.systems](https://github.com/totallynotnochi/mihoyo.systems)
-3. ❗ Opened issue [#188](https://github.com/Jorixon/JASM/issues/188) in [Jorixon/JASM](https://github.com/Jorixon/JASM)
-4. 🗣 Commented on [#2246](https://github.com/Vendicated/Vencord/pull/2246#issuecomment-2120410515) in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)
-5. 🗣 Commented on [#2246](https://github.com/Vendicated/Vencord/pull/2246#issuecomment-2108524426) in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)
-6. 🗣 Commented on [#1](https://github.com/wolf-mc-mods/EmoteTweaks/issues/1#issuecomment-2093052471) in [wolf-mc-mods/EmoteTweaks](https://github.com/wolf-mc-mods/EmoteTweaks)
+1. 💪 Opened PR [#6](https://github.com/Equicord/Equicord/pull/6) in [Equicord/Equicord](https://github.com/Equicord/Equicord)
+2. 🗣 Commented on [#1](https://github.com/totallynotnochi/mihoyo.systems/pull/1#issuecomment-2161674393) in [totallynotnochi/mihoyo.systems](https://github.com/totallynotnochi/mihoyo.systems)
+3. 💪 Opened PR [#1](https://github.com/totallynotnochi/mihoyo.systems/pull/1) in [totallynotnochi/mihoyo.systems](https://github.com/totallynotnochi/mihoyo.systems)
+4. ❗ Opened issue [#188](https://github.com/Jorixon/JASM/issues/188) in [Jorixon/JASM](https://github.com/Jorixon/JASM)
+5. 🗣 Commented on [#2246](https://github.com/Vendicated/Vencord/pull/2246#issuecomment-2120410515) in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)
+6. 🗣 Commented on [#2246](https://github.com/Vendicated/Vencord/pull/2246#issuecomment-2108524426) in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)
 <!--END_SECTION:activity-->
