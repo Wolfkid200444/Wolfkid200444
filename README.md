@@ -23,8 +23,9 @@
   </a>
 
   <p>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Wolfkid200444.Wolfkid200444" alt="visitors">
-  </p>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Wolfkid200444&label=Profile%20Views&color=2&icon=5&pretty=true" />
+</a>  </p>
 </div>
 
 ```Javascript
