@@ -10,8 +10,8 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
-  <a href="https://discord.gg/BK5EGm7jSt" style="margin-right: 10px;">
-    <img alt="Hangout Discord Server" src="https://dcbadge.limes.pink/api/server/BK5EGm7jSt">
+  <a href="https://discord.gg/XMCYRe6SKe" style="margin-right: 10px;">
+    <img alt="Hangout Discord Server" src="https://dcbadge.limes.pink/api/server/XMCYRe6SKe">
   </a>
   
   <a href="https://discord.gg/eTvYv95PCG" style="margin-right: 10px;">
