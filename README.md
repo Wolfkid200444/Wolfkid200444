@@ -52,6 +52,10 @@ class Me {
     <dd>
       <table>
         <tr>
+          <td><strong>Tata Bot 🤖</strong></td>
+          <td>- A Arknights: Endfield Utility Bot built directly into discord, made on Typescript </td>
+        </tr>
+        <tr>
           <td><strong>Obama Bot 🤖</strong></td>
           <td>- This bot is for Discord and made on JavaScript was originally made for a joke and ended up getting too popular</td>
         </tr>
