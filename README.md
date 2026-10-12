@@ -126,10 +126,10 @@ class Me {
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/Equicord/Equicord/pull/6) in [Equicord/Equicord](https://github.com/Equicord/Equicord)
-2. 🗣 Commented on [#1](https://github.com/totallynotnochi/mihoyo.systems/pull/1#issuecomment-2161674393) in [totallynotnochi/mihoyo.systems](https://github.com/totallynotnochi/mihoyo.systems)
-3. 💪 Opened PR [#1](https://github.com/totallynotnochi/mihoyo.systems/pull/1) in [totallynotnochi/mihoyo.systems](https://github.com/totallynotnochi/mihoyo.systems)
-4. ❗ Opened issue [#188](https://github.com/Jorixon/JASM/issues/188) in [Jorixon/JASM](https://github.com/Jorixon/JASM)
-5. 🗣 Commented on [#2246](https://github.com/Vendicated/Vencord/pull/2246#issuecomment-2120410515) in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)
-6. 🗣 Commented on [#2246](https://github.com/Vendicated/Vencord/pull/2246#issuecomment-2108524426) in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)
+1. 🎉 Merged PR [#15](https://github.com/revenge-mod/revenge-community-plugins/pull/15) in [revenge-mod/revenge-community-plugins](https://github.com/revenge-mod/revenge-community-plugins)
+2. 💪 Opened PR [#15](https://github.com/revenge-mod/revenge-community-plugins/pull/15) in [revenge-mod/revenge-community-plugins](https://github.com/revenge-mod/revenge-community-plugins)
+3. 🎉 Merged PR [#13](https://github.com/revenge-mod/revenge-community-plugins/pull/13) in [revenge-mod/revenge-community-plugins](https://github.com/revenge-mod/revenge-community-plugins)
+4. 💪 Opened PR [#13](https://github.com/revenge-mod/revenge-community-plugins/pull/13) in [revenge-mod/revenge-community-plugins](https://github.com/revenge-mod/revenge-community-plugins)
+5. 🎉 Merged PR [#3](https://github.com/revenge-mod/revenge-community-plugins/pull/3) in [revenge-mod/revenge-community-plugins](https://github.com/revenge-mod/revenge-community-plugins)
+6. 💪 Opened PR [#3](https://github.com/revenge-mod/revenge-community-plugins/pull/3) in [revenge-mod/revenge-community-plugins](https://github.com/revenge-mod/revenge-community-plugins)
 <!--END_SECTION:activity-->
