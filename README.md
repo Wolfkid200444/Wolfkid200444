@@ -126,10 +126,10 @@ class Me {
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/revenge-mod/revenge-community-plugins/pull/15) in [revenge-mod/revenge-community-plugins](https://github.com/revenge-mod/revenge-community-plugins)
-2. 💪 Opened PR [#15](https://github.com/revenge-mod/revenge-community-plugins/pull/15) in [revenge-mod/revenge-community-plugins](https://github.com/revenge-mod/revenge-community-plugins)
-3. 🎉 Merged PR [#13](https://github.com/revenge-mod/revenge-community-plugins/pull/13) in [revenge-mod/revenge-community-plugins](https://github.com/revenge-mod/revenge-community-plugins)
-4. 💪 Opened PR [#13](https://github.com/revenge-mod/revenge-community-plugins/pull/13) in [revenge-mod/revenge-community-plugins](https://github.com/revenge-mod/revenge-community-plugins)
-5. 🎉 Merged PR [#3](https://github.com/revenge-mod/revenge-community-plugins/pull/3) in [revenge-mod/revenge-community-plugins](https://github.com/revenge-mod/revenge-community-plugins)
-6. 💪 Opened PR [#3](https://github.com/revenge-mod/revenge-community-plugins/pull/3) in [revenge-mod/revenge-community-plugins](https://github.com/revenge-mod/revenge-community-plugins)
+1. 🎉 Merged PR [#10](https://github.com/wolf-mc-mods/EmoteTweaks/pull/10) in [wolf-mc-mods/EmoteTweaks](https://github.com/wolf-mc-mods/EmoteTweaks)
+2. 🎉 Merged PR [#15](https://github.com/revenge-mod/revenge-community-plugins/pull/15) in [revenge-mod/revenge-community-plugins](https://github.com/revenge-mod/revenge-community-plugins)
+3. 💪 Opened PR [#15](https://github.com/revenge-mod/revenge-community-plugins/pull/15) in [revenge-mod/revenge-community-plugins](https://github.com/revenge-mod/revenge-community-plugins)
+4. 🎉 Merged PR [#13](https://github.com/revenge-mod/revenge-community-plugins/pull/13) in [revenge-mod/revenge-community-plugins](https://github.com/revenge-mod/revenge-community-plugins)
+5. 💪 Opened PR [#13](https://github.com/revenge-mod/revenge-community-plugins/pull/13) in [revenge-mod/revenge-community-plugins](https://github.com/revenge-mod/revenge-community-plugins)
+6. 🎉 Merged PR [#3](https://github.com/revenge-mod/revenge-community-plugins/pull/3) in [revenge-mod/revenge-community-plugins](https://github.com/revenge-mod/revenge-community-plugins)
 <!--END_SECTION:activity-->
