@@ -126,10 +126,10 @@ class Me {
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/revenge-mod/revenge-community-plugins/pull/25) in [revenge-mod/revenge-community-plugins](https://github.com/revenge-mod/revenge-community-plugins)
-2. 🔒 Closed issue [#1](https://github.com/WolfPlugs/revenge-plugins/issues/1) in [WolfPlugs/revenge-plugins](https://github.com/WolfPlugs/revenge-plugins)
-3. ℹ️ Labeled issue [#1](https://github.com/WolfPlugs/revenge-plugins/issues/1) in [WolfPlugs/revenge-plugins](https://github.com/WolfPlugs/revenge-plugins)
-4. 🎉 Merged PR [#10](https://github.com/wolf-mc-mods/EmoteTweaks/pull/10) in [wolf-mc-mods/EmoteTweaks](https://github.com/wolf-mc-mods/EmoteTweaks)
-5. 🎉 Merged PR [#15](https://github.com/revenge-mod/revenge-community-plugins/pull/15) in [revenge-mod/revenge-community-plugins](https://github.com/revenge-mod/revenge-community-plugins)
-6. 💪 Opened PR [#15](https://github.com/revenge-mod/revenge-community-plugins/pull/15) in [revenge-mod/revenge-community-plugins](https://github.com/revenge-mod/revenge-community-plugins)
+1. 🎉 Merged PR [#25](https://github.com/revenge-mod/revenge-community-plugins/pull/25) in [revenge-mod/revenge-community-plugins](https://github.com/revenge-mod/revenge-community-plugins)
+2. 💪 Opened PR [#25](https://github.com/revenge-mod/revenge-community-plugins/pull/25) in [revenge-mod/revenge-community-plugins](https://github.com/revenge-mod/revenge-community-plugins)
+3. 🔒 Closed issue [#1](https://github.com/WolfPlugs/revenge-plugins/issues/1) in [WolfPlugs/revenge-plugins](https://github.com/WolfPlugs/revenge-plugins)
+4. ℹ️ Labeled issue [#1](https://github.com/WolfPlugs/revenge-plugins/issues/1) in [WolfPlugs/revenge-plugins](https://github.com/WolfPlugs/revenge-plugins)
+5. 🎉 Merged PR [#10](https://github.com/wolf-mc-mods/EmoteTweaks/pull/10) in [wolf-mc-mods/EmoteTweaks](https://github.com/wolf-mc-mods/EmoteTweaks)
+6. 🎉 Merged PR [#15](https://github.com/revenge-mod/revenge-community-plugins/pull/15) in [revenge-mod/revenge-community-plugins](https://github.com/revenge-mod/revenge-community-plugins)
 <!--END_SECTION:activity-->
