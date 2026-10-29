@@ -126,10 +126,10 @@ class Me {
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/Valenced/valenced-community-plugins/pull/18) in [Valenced/valenced-community-plugins](https://github.com/Valenced/valenced-community-plugins)
-2. 🚀 Published release [sound-controls@1.0.0](https://github.com/WolfPlugs/valenced-plugins/releases/tag/sound-controls%401.0.0) in [WolfPlugs/valenced-plugins](https://github.com/WolfPlugs/valenced-plugins)
-3. 🚀 Published release [questify@1.0.0](https://github.com/WolfPlugs/valenced-plugins/releases/tag/questify%401.0.0) in [WolfPlugs/valenced-plugins](https://github.com/WolfPlugs/valenced-plugins)
-4. 🚀 Published release [petpet@1.0.0](https://github.com/WolfPlugs/valenced-plugins/releases/tag/petpet%401.0.0) in [WolfPlugs/valenced-plugins](https://github.com/WolfPlugs/valenced-plugins)
-5. 🚀 Published release [nsfw-blur@1.0.0](https://github.com/WolfPlugs/valenced-plugins/releases/tag/nsfw-blur%401.0.0) in [WolfPlugs/valenced-plugins](https://github.com/WolfPlugs/valenced-plugins)
-6. 🚀 Published release [media-utils@1.0.0](https://github.com/WolfPlugs/valenced-plugins/releases/tag/media-utils%401.0.0) in [WolfPlugs/valenced-plugins](https://github.com/WolfPlugs/valenced-plugins)
+1. 🎉 Merged PR [#18](https://github.com/Valenced/valenced-community-plugins/pull/18) in [Valenced/valenced-community-plugins](https://github.com/Valenced/valenced-community-plugins)
+2. 💪 Opened PR [#18](https://github.com/Valenced/valenced-community-plugins/pull/18) in [Valenced/valenced-community-plugins](https://github.com/Valenced/valenced-community-plugins)
+3. 🚀 Published release [sound-controls@1.0.0](https://github.com/WolfPlugs/valenced-plugins/releases/tag/sound-controls%401.0.0) in [WolfPlugs/valenced-plugins](https://github.com/WolfPlugs/valenced-plugins)
+4. 🚀 Published release [questify@1.0.0](https://github.com/WolfPlugs/valenced-plugins/releases/tag/questify%401.0.0) in [WolfPlugs/valenced-plugins](https://github.com/WolfPlugs/valenced-plugins)
+5. 🚀 Published release [petpet@1.0.0](https://github.com/WolfPlugs/valenced-plugins/releases/tag/petpet%401.0.0) in [WolfPlugs/valenced-plugins](https://github.com/WolfPlugs/valenced-plugins)
+6. 🚀 Published release [nsfw-blur@1.0.0](https://github.com/WolfPlugs/valenced-plugins/releases/tag/nsfw-blur%401.0.0) in [WolfPlugs/valenced-plugins](https://github.com/WolfPlugs/valenced-plugins)
 <!--END_SECTION:activity-->
