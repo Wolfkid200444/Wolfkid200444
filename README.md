@@ -124,10 +124,10 @@ class Me {
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#171](https://github.com/WolfPlugs/GiBBy/pull/171) in [WolfPlugs/GiBBy](https://github.com/WolfPlugs/GiBBy)
-2. 💪 Opened PR [#171](https://github.com/WolfPlugs/GiBBy/pull/171) in [WolfPlugs/GiBBy](https://github.com/WolfPlugs/GiBBy)
-3. 💪 Opened PR [#4794](https://github.com/Vendicated/Vencord/pull/4794) in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)
-4. 🎉 Merged PR [#1522](https://github.com/oblien/openship/pull/1522) in [oblien/openship](https://github.com/oblien/openship)
+1. 💪 Opened PR [#61](https://github.com/Valenced/valenced-community-plugins/pull/61) in [Valenced/valenced-community-plugins](https://github.com/Valenced/valenced-community-plugins)
+2. 🎉 Merged PR [#171](https://github.com/WolfPlugs/GiBBy/pull/171) in [WolfPlugs/GiBBy](https://github.com/WolfPlugs/GiBBy)
+3. 💪 Opened PR [#171](https://github.com/WolfPlugs/GiBBy/pull/171) in [WolfPlugs/GiBBy](https://github.com/WolfPlugs/GiBBy)
+4. 💪 Opened PR [#4794](https://github.com/Vendicated/Vencord/pull/4794) in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)
 5. 🎉 Merged PR [#18](https://github.com/Valenced/valenced-community-plugins/pull/18) in [Valenced/valenced-community-plugins](https://github.com/Valenced/valenced-community-plugins)
 6. 💪 Opened PR [#18](https://github.com/Valenced/valenced-community-plugins/pull/18) in [Valenced/valenced-community-plugins](https://github.com/Valenced/valenced-community-plugins)
 <!--END_SECTION:activity-->
