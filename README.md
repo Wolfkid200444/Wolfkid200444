@@ -30,7 +30,7 @@
 class Me {
   constructor() {
     this.name = "Jesus";
-    this.age = 21;
+    this.age = 22;
     this.location = "Puerto Rico";
     this.languages = ["JavaScript", "TypeScript", "Java", "Kotlin"];
   }
