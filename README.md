@@ -124,10 +124,10 @@ class Me {
   <h1> Recent Activity </h1>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/sunbird-tools/sunbird/pull/8) in [sunbird-tools/sunbird](https://github.com/sunbird-tools/sunbird)
-2. 💪 Opened PR [#8](https://github.com/sunbird-tools/sunbird/pull/8) in [sunbird-tools/sunbird](https://github.com/sunbird-tools/sunbird)
-3. 💪 Opened PR [#35](https://github.com/FlashyReese/decky-wine-cellar/pull/35) in [FlashyReese/decky-wine-cellar](https://github.com/FlashyReese/decky-wine-cellar)
-4. 💪 Opened PR [#61](https://github.com/Valenced/valenced-community-plugins/pull/61) in [Valenced/valenced-community-plugins](https://github.com/Valenced/valenced-community-plugins)
-5. 🎉 Merged PR [#171](https://github.com/WolfPlugs/GiBBy/pull/171) in [WolfPlugs/GiBBy](https://github.com/WolfPlugs/GiBBy)
-6. 💪 Opened PR [#171](https://github.com/WolfPlugs/GiBBy/pull/171) in [WolfPlugs/GiBBy](https://github.com/WolfPlugs/GiBBy)
+1. 💪 Opened PR [#27](https://github.com/sunbird-tools/sunbird/pull/27) in [sunbird-tools/sunbird](https://github.com/sunbird-tools/sunbird)
+2. 🎉 Merged PR [#8](https://github.com/sunbird-tools/sunbird/pull/8) in [sunbird-tools/sunbird](https://github.com/sunbird-tools/sunbird)
+3. 💪 Opened PR [#8](https://github.com/sunbird-tools/sunbird/pull/8) in [sunbird-tools/sunbird](https://github.com/sunbird-tools/sunbird)
+4. 💪 Opened PR [#35](https://github.com/FlashyReese/decky-wine-cellar/pull/35) in [FlashyReese/decky-wine-cellar](https://github.com/FlashyReese/decky-wine-cellar)
+5. 💪 Opened PR [#61](https://github.com/Valenced/valenced-community-plugins/pull/61) in [Valenced/valenced-community-plugins](https://github.com/Valenced/valenced-community-plugins)
+6. 🎉 Merged PR [#171](https://github.com/WolfPlugs/GiBBy/pull/171) in [WolfPlugs/GiBBy](https://github.com/WolfPlugs/GiBBy)
 <!--END_SECTION:activity-->
